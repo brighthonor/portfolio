@@ -1,0 +1,17 @@
+.MenuBar {
+  /* border: solid; */
+  height: 50px;
+  width: 100vw;
+  background-color: rgba(22, 22, 23, .8);
+  position: fixed;
+  z-index: 100;
+}
+
+.MenuContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: inherit;
+  width: 50%;
+  margin: auto;
+}
