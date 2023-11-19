@@ -1,5 +1,5 @@
-# Portfolio - Sanghyun Yi
-This repository is for portfolio pages of Sanghyun Yi. It's developed under `React + Vite + TypeScript`.
+# Portfolio - Dooyong Kim
+This repository is for portfolio pages of Dooyong Kim. It's developed under `React + Vite + TypeScript`.
 
 ## History
 - 231115
