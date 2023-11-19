@@ -7,7 +7,7 @@ const MenuBar = () => {
     <>
     <div className="MenuBar">
       <div className="MenuContainer">
-        {pageList.map(e => MenuButton(e))}
+        {pageList.map(MenuButton)}
       </div>
     </div>
     </>

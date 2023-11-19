@@ -1,0 +1,51 @@
+.Card {
+  height: 700px;
+  width: 420px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 25px;
+  padding: 30px;
+}
+
+.Card #information h3 {
+  color: white;
+  text-align: center;
+}
+
+.Card #information {
+  margin-top: 65px;
+}
+
+.Card #infoouter h1 {
+  color: white;
+  /* text-align: center; */
+}
+
+.Card #information p {
+  text-align: center;
+}
+
+.Card h1 {
+  color: white;
+}
+
+.Card h2 {
+  color: white;
+}
+
+.Card p {
+  color: grey;
+  font-size: 1.2em;
+}
+
+.Card ul {
+  color: white;
+  font-size: 1.4em;
+}
+
+.Card li {
+  margin-top: 10px;
+}
+
+.Card #timeline {
+  margin-top: 80px;
+}

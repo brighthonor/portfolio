@@ -1,6 +1,6 @@
 export const pageList = [
+  'Dooyong',
   'About me',
-  'Skills',
-  'Career',
+  'Projects',
   'Contact'
 ]

@@ -1,30 +1,12 @@
-div.MainPage {
+.MainPage {
   background-image: 
     linear-gradient(
       rgba(0, 0, 0, 0.7), 
       rgba(0, 0, 0, 0.7)
     ),
     url('../assets/aboutMeBackground.jpg');
-  height: 100vh;
-  width: 100vw;
+  background-attachment: fixed;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
-  justify-content: space-around;
-}
-
-div.CenterTitleContainer {
-  margin: auto;
-  text-align: center;
-  color: white;
-  font-size: 1.5em;
-}
-
-.CenterTitle {
-  height: inherit;
   justify-content: center;
-}
-
-.ScrollDownPara {
-  font-size: 0.5em;
 }

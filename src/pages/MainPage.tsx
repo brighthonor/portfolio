@@ -1,16 +1,17 @@
 import '../css/MainPage.css';
+import Dooyong from './Dooyong';
+import AboutMe from './AboutMe';
+import Contact from './Contact';
+import Projects from './Projects';
 
 const MainPage = () => {
   return (
     <>
     <div className='MainPage'>
-      <div className='CenterTitleContainer'>
-        <h1 className='CenterTitle'>
-          Hello!<br />I'm Sanghyun Yi
-        </h1>
-        <p>Explore my portfolio – a showcase of my skills and creativity.</p>
-        <p className='ScrollDownPara'>▼ Scroll Down</p>
-      </div>
+      <Dooyong />
+      <AboutMe />
+      <Projects />
+      <Contact />
     </div>
     </>
   )
